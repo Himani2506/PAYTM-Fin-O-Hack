@@ -89,8 +89,28 @@ app/
 
 ## The Gap We're Filling
 
-640M UPI transactions happen daily — the world's largest real-time payment system — with no intelligent agent on top. Visa and Mastercard launched agentic payment layers in 2025. Razorpay proved agentic UPI works on ChatGPT. Nobody has built it natively inside India's most comprehensive payment platform — until now.
+640M UPI transactions happen daily — the world's largest real-time payment 
+system — and there is no intelligent agent on top of it yet. That is the gap.
 
+The global players moved first. Visa launched "Intelligent Commerce" in 2025 — 
+AI agents that search, compare, and complete purchases autonomously. Mastercard 
+followed with "Agent Pay" — agentic infrastructure for multi-step financial task 
+execution, already in production globally. Both companies said the same thing 
+publicly: by 2026, AI agents won't just assist your shopping, they will complete 
+it.
+
+India is not behind. Razorpay and NPCI piloted agentic payments on ChatGPT in 
+October 2025 — users browse, order, and pay within a single chat using UPI 
+Reserve Pay. It worked. But it was external, merchant-facing, and built on top 
+of someone else's platform.
+
+Nobody has built this natively inside a consumer super-app where the user 
+already has their loans, travel bookings, insurance, gold, and payment history 
+in one place. Paytm is the only platform in India where that cross-domain 
+orchestration is even possible — 333M registered users, 12.4M Soundbox 
+merchants, 15 years of transaction data across every vertical.
+
+That is not a feature gap. That is a structural gap that only one team can fill.
 ---
 
 Built by Team ByteChes
