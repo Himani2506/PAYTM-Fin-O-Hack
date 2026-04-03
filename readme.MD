@@ -28,25 +28,21 @@ Every step streams to the UI in real time — users see exactly what the agent i
 | Mobile | Flutter |
 | Backend | FastAPI + WebSockets |
 | Orchestration | LangGraph |
-| LLM | Llama 3.3 70B via Groq |
-| Voice | Whisper-Hindi2Hinglish-Apex |
+| LLM | Gemma-3-12b-it via vLLM |
+| Voice | AI4Bharat IndicConformer (ONNX) |
 
 ---
 
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/paytm-agent
+git clone https://github.com/Himani2506/PAYTM-Fin-O-Hack
 cd paytm-agent
 python3 -m venv venv && source venv/bin/activate
 pip install fastapi uvicorn langgraph langchain-groq python-dotenv websockets
 ```
 
-Add to `.env`:
-```
-GROQ_API_KEY=your_key
-GEMINI_API_KEY=your_key
-```
+
 
 Run:
 ```bash
